@@ -1,8 +1,7 @@
 # CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding
 
 <a href="https://arxiv.org/abs/2506.13725" target="_blank">
-    <img alt="arXiv" src="https://img.shields.io/badge/CEED--VLA-red?label=arXiv&color=red
-" height="25" />
+    <img alt="arXiv" src="https://img.shields.io/badge/CEED--VLA-red?label=arXiv&color=red" height="25" />
 </a>
 <a href="https://irpn-eai.github.io/CEED-VLA/" target="_blank">
     <img alt="project" src="https://img.shields.io/badge/CEED--VLA-blue?label=Project&color=blue" height="25" />
