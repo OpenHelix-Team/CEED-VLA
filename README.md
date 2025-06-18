@@ -7,7 +7,7 @@
 <a href="https://irpn-eai.github.io/CEED-VLA/" target="_blank">
     <img alt="project" src="https://img.shields.io/badge/CEED--VLA-blue?label=Project&color=blue" height="25" />
 </a>
-<a href="https://huggingface.co/robovlms/RoboVLMs" target="_blank">
+<a href="https://huggingface.co/chenpyyy/openvla-ac" target="_blank">
     <img alt="HF Model: CEED-VLA" src="https://img.shields.io/badge/CEED--VLA-yellow?label=Model(no consistnent traning)&color=ffd400" height="25" />
 </a>
 <br>
