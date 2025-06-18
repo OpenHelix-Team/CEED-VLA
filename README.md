@@ -1,5 +1,26 @@
 # CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding
 
+<a href="https://arxiv.org/abs/2506.13725" target="_blank">
+    <img alt="arXiv" src="https://img.shields.io/badge/CEED--VLA-red?label=arXiv&color=red
+" height="25" />
+</a>
+<a href="https://irpn-eai.github.io/CEED-VLA/" target="_blank">
+    <img alt="project" src="https://img.shields.io/badge/CEED--VLA-blue?label=Project&color=blue" height="25" />
+</a>
+<a href="https://huggingface.co/robovlms/RoboVLMs" target="_blank">
+    <img alt="HF Model: CEED-VLA" src="https://img.shields.io/badge/CEED--VLA-yellow?label=Model(no consistnent traning)&color=ffd400" height="25" />
+</a>
+<br>
+
+**Wenxuan Song¹\***, **Jiayi Chen¹\***, **Pengxiang Ding²˒³†**, **Yuxin Huang¹**, **Han Zhao²˒³**, **Donglin Wang²**,  
+**Haoang Li¹‡**
+
+¹ IRPN Lab, HKUST(GZ) <br>
+² MiLab, Westlake University  <br> 
+³ Zhejiang University  
+
+\* Equal Contribution  † Project Leader  ‡ Corresponding Author
+
 
 
  
@@ -9,6 +30,7 @@
 <hr style="border: 2px solid gray;"></hr>
 
 ## Overview
+
 We now only open-source the **consistent-training-free version** of CEED-VLA base on OpenVLA.  
 The consistent training code , jacobi trajectory generating code and LLaVA-VLA version will be release later.
 
@@ -134,7 +156,7 @@ torchrun --standalone --nnodes 1 --nproc-per-node 8 vla-scripts/finetune.py \
 
 ## LIBERO Evaluations
 
-### Results of OpenVLA on LIBERO-LONG (Speed in tokens/s)
+### Results of OpenVLA in LIBERO-LONG Environment on H100(Speed in tokens/s)
 
 
 
