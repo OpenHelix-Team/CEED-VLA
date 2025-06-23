@@ -188,3 +188,13 @@ CUDA_VISIBLE_DEVICES=0 python ./experiments/robot/libero/run_libero_eval_jacobi_
 
 ```
 
+###Cite
+、、、
+@article{song2025ceed,
+  title={CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding},
+  author={Song, Wenxuan and Chen, Jiayi and Ding, Pengxiang and Huang, Yuxin and Zhao, Han and Wang, Donglin and Li, Haoang},
+  journal={arXiv preprint arXiv:2506.13725},
+  year={2025}
+}
+、、、
+
