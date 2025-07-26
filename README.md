@@ -11,13 +11,13 @@
 </a>
 <br>
 
-**Wenxuan Song¹\***, **Jiayi Chen¹\***, **Pengxiang Ding²˒³†**, **Yuxin Huang¹**, **Han Zhao²˒³**, **Donglin Wang²**,  **Xinhu Zheng¹**,  **Gang Hua4**,  
+**Wenxuan Song¹\***, **Jiayi Chen¹\***, **Pengxiang Ding²˒³†**, **Yuxin Huang¹**, **Han Zhao²˒³**, **Donglin Wang²**,  **Xinhu Zheng¹**,  **Gang Hua⁴**,  
 **Haoang Li¹‡**
 
 ¹ IRPN Lab, HKUST(GZ) <br>
 ² MiLab, Westlake University  <br> 
 ³ Zhejiang University  
-4 Amazon Inc.
+⁴ Amazon Inc.
 
 \* Equal Contribution  † Project Leader  ‡ Corresponding Author
 
